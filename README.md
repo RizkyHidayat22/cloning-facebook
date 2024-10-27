@@ -1,23 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15982166&assignment_repo_type=AssignmentRepo)
-# GC01
+Link Server = http://34.50.80.136/
+link expo = https://expo.dev/preview/update?message=fix%20env&updateRuntimeVersion=1.0.0&createdAt=2024-09-22T15%3A39%3A32.128Z&slug=exp&projectId=016f764f-fe27-499a-bcc7-09ea35914f34&group=59c8dd36-5843-402f-990d-e3ad6762abb5
 
-## My Social Media App
-
-My Social Media App adalah sebuah aplikasi client(mobile)-server. Challenge ini juga merupakan salah satu aplikasi mobile pertama dan terakhir kamu, jadi kerjakan dengan baik sebagai bekal portofolio kamu. Pada challenge ini, kamu diminta untuk membuat aplikasi client(mobile)-server dengan detail sebagai berikut:
-
-### Struktur Folder
-- [ ] server: untuk menyimpan aplikasi server GraphQL kamu 
-- [ ] app: untuk menyimpan aplikasi mobile React Native kamu
-
-
-### Fitur
-- [ ] Fitur Register
-- [ ] Fitur Login
-- [ ] FItur Add Post
-- [ ] Fitur Show Post (berdasarkan yang paling baru)
-- [ ] Fitur Comment Post (Embedded Document)
-- [ ] Fitur search user berdasarkan nama atau username
-- [ ] Fitur follow
-- [ ] Menampilkan Followers dan Following dari setiap user (Reference with $lookup)
-- [ ] Fitur Like Post
-- [ ] Menampilkan total like dari setiap post
+Email/username & password user1: fata & 12345
+Email/username & password user2: rizky & 12345
+Email/username & password user3: ojan & 12345
+Developed on : both IOS & Android (tested in both device)
